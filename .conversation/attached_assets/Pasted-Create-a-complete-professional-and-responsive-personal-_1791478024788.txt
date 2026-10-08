@@ -1,0 +1,633 @@
+Create a complete, professional and responsive personal profile/portfolio website for my virtual internship assessment at InAmigos Foundation.
+
+PROJECT:
+Assessment – Task 1
+Title: Personal Profile Website (AI Based)
+
+PURPOSE:
+This website will be submitted as my live website for the InAmigos Foundation virtual internship. It should look professional, clean, modern and presentable, like a genuine personal portfolio of a B.Tech Computer Science student.
+
+IMPORTANT:
+Use the information provided below exactly.
+Do NOT invent fake achievements, fake experience, fake ratings, fake companies, fake project links or any other information that I have not provided.
+
+==================================================
+TECHNOLOGY
+==================================================
+
+- Use HTML5, CSS3 and JavaScript.
+- You may use a suitable frontend framework/library if it improves the website.
+- No backend/database is required for this portfolio website.
+- Make the website fully responsive.
+- Make sure there are no console errors.
+- Make sure all navigation and buttons work correctly.
+- Keep the code clean and organized.
+
+==================================================
+PERSONAL INFORMATION
+==================================================
+
+Name:
+Devansh Goyal
+
+Location:
+Ghaziabad, Uttar Pradesh, India
+
+Phone:
++91-8826004037
+
+Email:
+devanshgoyal4037@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/devansh-goyal-280520338/
+
+GitHub:
+https://github.com/Devanshgoyal-os
+
+Kaggle:
+https://kaggle.com/devanshgoyal019
+
+==================================================
+PROFESSIONAL INTRODUCTION
+==================================================
+
+Main heading:
+
+"Hi, I'm Devansh Goyal"
+
+Subtitle:
+
+"B.Tech CSE (AI & ML) Student"
+
+Professional tagline:
+
+"Software Development | Artificial Intelligence & Machine Learning | Data Analytics | Problem Solving"
+
+Introduction:
+
+"I am a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I have a strong interest in software development, machine learning, data analytics, problem solving and building practical technology projects. I actively practice Data Structures and Algorithms and enjoy developing web, data and AI-based applications."
+
+Do not call me a Software Engineer or AI Engineer because I am currently a student.
+
+==================================================
+ABOUT ME
+==================================================
+
+Create a professional About Me section.
+
+Mention:
+
+- B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+- ABES Engineering College, Ghaziabad
+- 2024–2028
+- CGPA: 8.4/10
+- Tuition Fee Waiver at ABES for strong academic performance
+
+Areas of interest:
+
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Data Structures & Algorithms
+- Full Stack Development
+
+Keep the writing concise and professional.
+
+==================================================
+TECHNICAL SKILLS
+==================================================
+
+Create an attractive Skills section with categories/cards.
+
+PROGRAMMING LANGUAGES:
+- C++
+- Python
+- Java
+- SQL
+- C
+
+DATA STRUCTURES & ALGORITHMS:
+- Arrays
+- Strings
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Sorting
+- Searching
+- Recursion
+- Hashing
+- Greedy Algorithms
+
+MACHINE LEARNING & DATA:
+- Regression
+- Classification
+- Data Preprocessing
+- Exploratory Data Analysis
+- Scikit-learn
+- Random Forest
+- Data Analysis
+- Pandas
+- NumPy
+
+WEB & DATABASE:
+- HTML
+- CSS
+- JavaScript
+- Angular
+- Spring Boot
+- MySQL
+- SQL
+
+TOOLS:
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Kaggle
+
+CORE COMPUTER SCIENCE:
+- OOP
+- DBMS
+- Operating Systems
+- Computer Networks
+
+Do not show fake skill percentages.
+
+==================================================
+PROJECTS
+==================================================
+
+Create a professional Projects section with attractive project cards.
+
+PROJECT 1:
+
+Name:
+Zomato Data Analysis
+
+Technologies:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Data Analysis
+
+Description:
+
+"Performed exploratory data analysis on Zomato restaurant data to identify patterns and insights related to restaurant ratings, cuisines, locations, pricing and customer preferences. Cleaned and analyzed the dataset using Python and created visualizations to communicate meaningful insights."
+
+Add suitable project highlights such as:
+- Data cleaning
+- Exploratory Data Analysis
+- Data visualization
+- Restaurant and rating analysis
+- Business insights
+
+Do not create fake project statistics.
+
+--------------------------------------------------
+
+PROJECT 2:
+
+Name:
+BankEase – NextGen Net Banking
+
+Technologies:
+Java, Spring Boot, Angular, MySQL, SQL, HTML, CSS, JavaScript
+
+Description:
+
+"Developed a full-stack net banking application designed to provide essential digital banking services through a secure and user-friendly interface."
+
+Mention key functionality such as:
+- User registration and login
+- Account management
+- Fund transfer
+- Transaction management
+- Bill payment
+- Banking dashboard
+- Profile management
+
+Architecture:
+Frontend: Angular
+Backend: Java + Spring Boot
+Database: MySQL
+
+IMPORTANT:
+Do not create fake GitHub or live project links unless I provide them.
+
+--------------------------------------------------
+
+PROJECT 3 (OPTIONAL):
+
+If the website design benefits from a third project section, create a smaller "Other Work" card for my AI/e-commerce project:
+
+Name:
+AmCart – AI-Based E-Commerce Website
+
+Technologies:
+HTML, CSS, JavaScript, Python, AI
+
+Description:
+"Developed an AI-based e-commerce website with product browsing and shopping features, including AI-based product recommendation concepts and responsive pages."
+
+Do not create fake links.
+
+==================================================
+EDUCATION
+==================================================
+
+Create a professional education timeline.
+
+1.
+
+B.Tech – Computer Science & Engineering
+Artificial Intelligence & Machine Learning
+
+ABES Engineering College
+Ghaziabad, Uttar Pradesh
+
+2024–2028
+CGPA: 8.4/10
+
+Highlight:
+"Tuition Fee Waiver – Awarded for strong academic performance"
+
+2.
+
+Class XII – CBSE
+
+Ch. Chhabil Dass Public School
+2023–24
+93%
+
+3.
+
+Class X – CBSE
+
+Ch. Chhabil Dass Public School
+2021–22
+94.4%
+
+==================================================
+ACHIEVEMENTS
+==================================================
+
+Create a visually attractive achievements section.
+
+Include exactly:
+
+- LeetCode: 350+ problems solved
+- LeetCode Rating: 1480
+- CodeChef: 320+ problems solved
+- CodeChef Max Rating: 1184
+- CodeChef: 1 Star
+- Kaggle: 20% Expertise
+- GeeksforGeeks: 65+ problems solved
+- Participated in 6–7 hackathons
+
+Display important numbers using clean statistic cards.
+
+For example:
+
+350+
+LeetCode Problems
+
+1480
+LeetCode Rating
+
+320+
+CodeChef Problems
+
+1184
+CodeChef Max Rating
+
+6–7
+Hackathons
+
+20%
+Kaggle Expertise
+
+Do not invent any other achievements.
+
+==================================================
+CERTIFICATIONS
+==================================================
+
+Create a professional Certifications section.
+
+Include:
+
+1. CodeChef – Silver Batch
+
+2. Be10X – AI Tools and ChatGPT
+
+3. Simplilearn – Web Development
+
+4. IBM – AI Fundamentals
+
+5. Google Cloud – Generative AI
+
+6. NASSCOM – Exploratory Data Analysis
+
+Use clean certification cards.
+
+Do not create fake certificate links.
+
+==================================================
+EXPERIENCE
+==================================================
+
+Create an Experience section.
+
+Experience:
+Private Home Tutor – Classes up to 10th
+
+Duration:
+2+ Years
+
+Description:
+
+"Provided one-to-one tutoring to Class 10 and below students across multiple subjects. Adapted teaching methods to individual needs and managed lesson planning, student progress and scheduling."
+
+Present this professionally without making it look like corporate employment.
+
+==================================================
+WEBSITE STRUCTURE
+==================================================
+
+Create these sections:
+
+1. Home
+2. About
+3. Skills
+4. Projects
+5. Education
+6. Achievements
+7. Certifications
+8. Experience
+9. Contact
+
+==================================================
+NAVIGATION BAR
+==================================================
+
+Create a sticky navigation bar.
+
+Navigation links:
+
+Home
+About
+Skills
+Projects
+Education
+Achievements
+Certifications
+Experience
+Contact
+
+Requirements:
+
+- Sticky navbar
+- Smooth scrolling
+- Active section highlighting
+- Mobile hamburger menu
+- Responsive design
+- Navbar should have a subtle blur/transparency effect when scrolling
+
+==================================================
+HERO SECTION
+==================================================
+
+Create an impressive but simple hero section.
+
+Heading:
+
+"Hi, I'm Devansh Goyal"
+
+Subtitle:
+
+"B.Tech CSE (AI & ML) Student"
+
+Tagline:
+
+"Software Development | AI/ML | Data Analytics | Problem Solving"
+
+Short introduction.
+
+Add two buttons:
+
+"View My Projects"
+"Contact Me"
+
+Buttons must scroll to the correct sections.
+
+Add a subtle developer/AI visual element.
+
+Do NOT use a fake profile picture.
+
+You can use a professional "DG" initials element instead.
+
+==================================================
+DESIGN
+==================================================
+
+The website should look:
+
+- Modern
+- Clean
+- Professional
+- Minimal
+- Calm
+- Premium
+- Internship-ready
+- Student portfolio style
+
+Preferred theme:
+
+Dark navy / charcoal background with subtle blue accent.
+
+Use:
+
+- Good whitespace
+- Rounded cards
+- Subtle shadows
+- Smooth transitions
+- Professional typography
+- Clear hierarchy
+- Good contrast
+
+Avoid:
+
+- Excessive gradients
+- Excessive animations
+- Neon colors
+- Gaming-style UI
+- Too many colors
+- Overcrowded sections
+- Generic AI-looking templates
+
+The website should look like a genuine professional developer/data/AI student portfolio.
+
+==================================================
+CONTACT SECTION
+==================================================
+
+Create a Contact section containing:
+
+Email:
+devanshgoyal4037@gmail.com
+
+Phone:
++91-8826004037
+
+LinkedIn:
+https://www.linkedin.com/in/devansh-goyal-280520338/
+
+GitHub:
+https://github.com/Devanshgoyal-os
+
+Kaggle:
+https://kaggle.com/devanshgoyal019
+
+Add a simple contact form:
+
+Name
+Email
+Message
+Send Message
+
+Since there is no backend, do NOT pretend that messages are actually being sent.
+
+After submission, show:
+
+"Thanks for reaching out! This demo contact form is currently not connected to a backend."
+
+==================================================
+FOOTER
+==================================================
+
+Create a clean professional footer.
+
+Include:
+
+Devansh Goyal
+
+"B.Tech CSE (AI & ML) Student"
+
+Social links:
+LinkedIn
+GitHub
+Kaggle
+Email
+
+Also include:
+
+"Built with AI-assisted development using Replit"
+
+"© 2026 Devansh Goyal. All rights reserved."
+
+==================================================
+AI ASSISTED DEVELOPMENT
+==================================================
+
+This website is being created for an "AI Based" personal profile website assessment.
+
+Use AI-assisted development through Replit Agent.
+
+The final website should look natural and professional, not obviously AI-generated.
+
+Do not create a fake AI chatbot or fake AI functionality.
+
+The AI aspect should primarily be the AI-assisted website development process.
+
+Mention AI-assisted development subtly in the footer.
+
+==================================================
+RESPONSIVENESS
+==================================================
+
+Make sure the website works properly on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Test:
+
+- Navigation
+- Buttons
+- Cards
+- Contact form
+- External links
+- Smooth scrolling
+- Mobile menu
+
+==================================================
+SEO
+==================================================
+
+Page title:
+
+"Devansh Goyal | B.Tech CSE (AI & ML) Student"
+
+Meta description:
+
+"Personal profile and portfolio website of Devansh Goyal, a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning."
+
+Add appropriate meta tags.
+
+==================================================
+FINAL QUALITY CHECK
+==================================================
+
+Before considering the website complete:
+
+1. Remove all placeholder text.
+2. Remove all Lorem Ipsum.
+3. Remove fake links.
+4. Remove fake achievements.
+5. Remove fake experience.
+6. Check every navigation link.
+7. Check every button.
+8. Check mobile responsiveness.
+9. Check for console errors.
+10. Check for broken images.
+11. Make sure the website loads quickly.
+12. Make the design consistent.
+13. Verify all contact information.
+14. Verify "Devansh Goyal" spelling everywhere.
+15. Verify all project names and descriptions.
+16. Verify all achievement numbers.
+17. Verify all certification names.
+18. Verify the education details.
+19. Do not add information that was not provided.
+
+==================================================
+REPLIT DEPLOYMENT
+==================================================
+
+After completing the website, prepare the project for deployment on Replit.
+
+The final website must be publishable as a public live website.
+
+I need a public URL that I can submit to the InAmigos Foundation internship assessment.
+
+Do NOT use localhost as the final submission link.
+
+After the website is complete:
+
+1. Make sure it runs successfully.
+2. Make sure it can be deployed/published on Replit.
+3. Tell me exactly which button to click to publish/deploy it.
+4. Tell me where I can find the final public URL.
+5. Explain how I can test the public URL in an incognito browser.
+6. Make sure the public website is accessible without requiring me to log into Replit.
+7. Do not consider the task complete until the website is ready for public deployment.
+
+FINAL GOAL:
+
+Create a polished personal profile website that I can submit as my InAmigos Foundation Virtual Internship Task 1.
+
+The final result should be professional enough to share on LinkedIn and use as part of my B.Tech portfolio.
+
+The website should showcase my profile, skills, projects, education, achievements and certifications in a clean and impressive way.
