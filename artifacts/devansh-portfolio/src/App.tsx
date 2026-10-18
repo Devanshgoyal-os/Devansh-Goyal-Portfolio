@@ -408,10 +408,12 @@ function App() {
               <a href="mailto:devanshgoyal4037@gmail.com" data-testid="link-footer-email">Email <ArrowUpRight size={11} /></a>
             </nav>
           </div>
-          <div className="footer-bottom">
-            <span>© 2026 Devansh Goyal. All rights reserved.</span>
-            <span>Built with AI-assisted development using Replit</span>
-          </div>
+          
+<div className="footer-bottom">
+  <span>© 2026 Devansh Goyal. All rights reserved.</span>
+  <span>Designed &amp; developed by Devansh Goyal</span>
+</div>
+
         </div>
       </footer>
     </div>
